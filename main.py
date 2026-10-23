@@ -1,4 +1,4 @@
-"""Driver Monitoring System — Phase 3: fatigue + calibrated head pose.
+"""Driver Monitoring System 
 
 Run: python main.py --camera 1
 C: neutral pose calibration; M: sound on/off; Q / Esc: quit.
